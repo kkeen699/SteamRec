@@ -1,0 +1,342 @@
+{'Action': 0}
+{'Casual': 1}
+{'Indie': 2}
+{'Simulation': 3}
+{'Strategy': 4}
+{'Free to Play': 5}
+{'RPG': 6}
+{'Card Game': 7}
+{'Trading Card Game': 8}
+{'Turn-Based': 9}
+{'Fantasy': 10}
+{'Tactical': 11}
+{'Dark Fantasy': 12}
+{'Board Game': 13}
+{'PvP': 14}
+{'2D': 15}
+{'Competitive': 16}
+{'Replay Value': 17}
+{'Character Customization': 18}
+{'Female Protagonist': 19}
+{'Difficult': 20}
+{'Design & Illustration': 21}
+{'Sports': 22}
+{'Multiplayer': 23}
+{'Adventure': 24}
+{'FPS': 25}
+{'Shooter': 26}
+{'Third-Person Shooter': 27}
+{'Sniper': 28}
+{'Third Person': 29}
+{'Racing': 30}
+{'Early Access': 31}
+{'Survival': 32}
+{'Pixel Graphics': 33}
+{'Cute': 34}
+{'Physics': 35}
+{'Science': 36}
+{'VR': 37}
+{'Tutorial': 38}
+{'Classic': 39}
+{'Gore': 40}
+{"1990's": 41}
+{'Singleplayer': 42}
+{'Sci-fi': 43}
+{'Aliens': 44}
+{'First-Person': 45}
+{'Story Rich': 46}
+{'Atmospheric': 47}
+{'Silent Protagonist': 48}
+{'Great Soundtrack': 49}
+{'Moddable': 50}
+{'Linear': 51}
+{'Retro': 52}
+{'Funny': 53}
+{'Turn-Based Strategy': 54}
+{'Platformer': 55}
+{'Side Scroller': 56}
+{'Massively Multiplayer': 57}
+{'Clicker': 58}
+{'Gothic': 59}
+{'Isometric': 60}
+{'Stealth': 61}
+{'Mystery': 62}
+{'Assassin': 63}
+{'Comedy': 64}
+{'Stylized': 65}
+{'Co-op': 66}
+{'War': 67}
+{'Rome': 68}
+{'Historical': 69}
+{'Open World': 70}
+{'Realistic': 71}
+{'Crafting': 72}
+{'Trading': 73}
+{'MMORPG': 74}
+{'Swordplay': 75}
+{'Hunting': 76}
+{'Violent': 77}
+{'Experience': 78}
+{'City Builder': 79}
+{'Building': 80}
+{'Economy': 81}
+{'Base Building': 82}
+{'Education': 83}
+{'Golf': 84}
+{'Wargame': 85}
+{'Cold War': 86}
+{'Real-Time with Pause': 87}
+{'RTS': 88}
+{'Diplomacy': 89}
+{'Psychological Horror': 90}
+{'Sandbox': 91}
+{'Mod': 92}
+{'Online Co-Op': 93}
+{'Animation & Modeling': 94}
+{'Puzzle': 95}
+{'Horror': 96}
+{'Management': 97}
+{'Futuristic': 98}
+{'Cyberpunk': 99}
+{'Destruction': 100}
+{'Music': 101}
+{'Driving': 102}
+{'Arcade': 103}
+{'Mechs': 104}
+{'Robots': 105}
+{'Underground': 106}
+{'Exploration': 107}
+{'Point & Click': 108}
+{'4X': 109}
+{'Trains': 110}
+{'Top-Down': 111}
+{'Underwater': 112}
+{'Turn-Based Tactics': 113}
+{'Lovecraftian': 114}
+{'Lara Croft': 115}
+{'Remake': 116}
+{'Action-Adventure': 117}
+{'Dinosaurs': 118}
+{'Parkour': 119}
+{'3D Vision': 120}
+{'Hack and Slash': 121}
+{'Spectacle fighter': 122}
+{'Character Action Game': 123}
+{"Beat 'em up": 124}
+{'Demons': 125}
+{'Controller': 126}
+{'Detective': 127}
+{'Episodic': 128}
+{'Zombies': 129}
+{'Fast-Paced': 130}
+{'2.5D': 131}
+{'World War II': 132}
+{'Supernatural': 133}
+{'Alternate History': 134}
+{'Vampire': 135}
+{'Space': 136}
+{'Warhammer 40K': 137}
+{'Games Workshop': 138}
+{'Real-Time': 139}
+{'Steampunk': 140}
+{'Dystopian': 141}
+{'Political': 142}
+{'Dark': 143}
+{'Action RPG': 144}
+{'Grand Strategy': 145}
+{'Real Time Tactics': 146}
+{'Medieval': 147}
+{'Hidden Object': 148}
+{'Crime': 149}
+{'Survival Horror': 150}
+{'Mature': 151}
+{'Noir': 152}
+{'Bullet Time': 153}
+{'Cinematic': 154}
+{'Nudity': 155}
+{'Co-op Campaign': 156}
+{'FMV': 157}
+{'Match 3': 158}
+{'Anime': 159}
+{'Touch-Friendly': 160}
+{'Military': 161}
+{'Western': 162}
+{'Family Friendly': 163}
+{'Ninja': 164}
+{'Arena Shooter': 165}
+{'Naval': 166}
+{'Agriculture': 167}
+{'Horses': 168}
+{'Flight': 169}
+{'TrackIR': 170}
+{'Tanks': 171}
+{'Cult Classic': 172}
+{'Puzzle-Platformer': 173}
+{'Post-apocalyptic': 174}
+{'Inventory Management': 175}
+{'Benchmark': 176}
+{'Space Sim': 177}
+{'Choices Matter': 178}
+{'Based On A Novel': 179}
+{'Multiple Endings': 180}
+{'Magic': 181}
+{'LEGO': 182}
+{'Batman': 183}
+{'Local Co-Op': 184}
+{'Superhero': 185}
+{'Comic Book': 186}
+{'Local Multiplayer': 187}
+{'Offroad': 188}
+{'Satire': 189}
+{'Surreal': 190}
+{'Capitalism': 191}
+{'Bowling': 192}
+{'Dark Humor': 193}
+{'Level Editor': 194}
+{'Mythology': 195}
+{'Time Attack': 196}
+{'Colorful': 197}
+{'Short': 198}
+{'Tower Defense': 199}
+{'Top-Down Shooter': 200}
+{'Villain Protagonist': 201}
+{'Fighting': 202}
+{'Team-Based': 203}
+{'Split Screen': 204}
+{'Party-Based RPG': 205}
+{'CRPG': 206}
+{'Pirates': 207}
+{'Walking Simulator': 208}
+{'Psychological': 209}
+{'Memes': 210}
+{'3D Platformer': 211}
+{'Psychedelic': 212}
+{'Score Attack': 213}
+{'Abstract': 214}
+{'Hex Grid': 215}
+{'Tactical RPG': 216}
+{'Turn-Based Combat': 217}
+{'America': 218}
+{'2D Fighter': 219}
+{'Star Wars': 220}
+{'1980s': 221}
+{'Mini Golf': 222}
+{'Time Manipulation': 223}
+{'Time Travel': 224}
+{'On-Rails Shooter': 225}
+{'4 Player Local': 226}
+{'Relaxing': 227}
+{'Hand-drawn': 228}
+{'Dungeon Crawler': 229}
+{'Loot': 230}
+{'Cartoon': 231}
+{'Mouse only': 232}
+{'Experimental': 233}
+{'Dragons': 234}
+{'Romance': 235}
+{'Metroidvania': 236}
+{'Parody': 237}
+{'Quick-Time Events': 238}
+{'World War I': 239}
+{"Shoot 'Em Up": 240}
+{'Music-Based Procedural Generation': 241}
+{'Twin Stick Shooter': 242}
+{'Rhythm': 243}
+{'Bullet Hell': 244}
+{'6DOF': 245}
+{'Modern': 246}
+{'Class-Based': 247}
+{'PvE': 248}
+{'Heist': 249}
+{'Politics': 250}
+{'Resource Management': 251}
+{'Conspiracy': 252}
+{'Minimalist': 253}
+{'JRPG': 254}
+{'Visual Novel': 255}
+{'Hacking': 256}
+{'Strategy RPG': 257}
+{'Lemmings': 258}
+{'Illuminati': 259}
+{'Sexual Content': 260}
+{'Movie': 261}
+{'Blood': 262}
+{'MOBA': 263}
+{'Rogue-like': 264}
+{'Runner': 265}
+{'Narration': 266}
+{'Asynchronous Multiplayer': 267}
+{'Chess': 268}
+{'God Game': 269}
+{'Soundtrack': 270}
+{'Procedural Generation': 271}
+{'Rogue-lite': 272}
+{'Perma Death': 273}
+{'Kickstarter': 274}
+{'Investigation': 275}
+{'Thriller': 276}
+{'Cartoony': 277}
+{'Crowdfunded': 278}
+{'Transhumanism': 279}
+{'Interactive Fiction': 280}
+{'Dating Sim': 281}
+{'Werewolves': 282}
+{'Documentary': 283}
+{'RPGMaker': 284}
+{'Gun Customization': 285}
+{'Animation &amp; Modeling': 286}
+{'Video Production': 287}
+{'Software': 288}
+{'e-sports': 289}
+{'Martial Arts': 290}
+{'Mars': 291}
+{'GameMaker': 292}
+{'Utilities': 293}
+{'Web Publishing': 294}
+{'Game Development': 295}
+{'Choose Your Own Adventure': 296}
+{'Text-Based': 297}
+{'Football': 298}
+{'Soccer': 299}
+{'Intentionally Awkward Controls': 300}
+{'Gambling': 301}
+{'Software Training': 302}
+{'Design &amp; Illustration': 303}
+{'Sokoban': 304}
+{'Drama': 305}
+{'NSFW': 306}
+{'Dynamic Narration': 307}
+{'Typing': 308}
+{'Pinball': 309}
+{'Voxel': 310}
+{'Basketball': 311}
+{'Fishing': 312}
+{'Programming': 313}
+{'Audio Production': 314}
+{'Sailing': 315}
+{'Mining': 316}
+{'Dark Comedy': 317}
+{'Grid-Based Movement': 318}
+{'Otome': 319}
+{'Voice Control': 320}
+{'Artificial Intelligence': 321}
+{'Cycling': 322}
+{'Gaming': 323}
+{'Photo Editing': 324}
+{'Lore-Rich': 325}
+{'Word Game': 326}
+{'Pool': 327}
+{'Conversation': 328}
+{'Nonlinear': 329}
+{'Spelling': 330}
+{'Foreign': 331}
+{'Feature Film': 332}
+{'Hardware': 333}
+{'Steam Machine': 334}
+{'Philisophical': 335}
+{'Accounting': 336}
+{'Mystery Dungeon': 337}
+{'Wrestling': 338}
+{'360 Video': 339}
+{'Faith': 340}
+{'Bikes': 341}
